@@ -1,0 +1,624 @@
+[
+	{
+		"mapData": [],
+		"mainClanData": {
+			"serialData": {
+				"EA0711FC29A2EA8A7943CA7CE92FD8AD": {
+					"points": 0,
+					"nickName": "#2b2b2b8.#707070Silly"
+				},
+				"E5B63583ADD6B2288BE2C0E4205AA1DF": {
+					"points": 0,
+					"nickName": "#7e7effcanky8"
+				},
+				"DC600926101BC72FCDBBF845FB6D3052": {
+					"points": 0,
+					"nickName": "RadheN#8}"
+				},
+				"ADCFB53A8497277015CFBB32CC62CE02": {
+					"points": 0,
+					"nickName": "RHYN1X.8"
+				},
+				"A2615D5F0303CFE3E8AF5FC285DAAD23": {
+					"points": 0,
+					"nickName": "ScrawnyVan21"
+				},
+				"DA129A6FD227142EC62F7BD99ADB4E53": {
+					"points": 0,
+					"nickName": "~#ffffffShaNe#7d9bff8}"
+				},
+				"A1E1EC9DC77B3E04F65192019F3755A1": {
+					"points": 0,
+					"nickName": "Danx#8"
+				},
+				"DEBEE9D81FFF1BFF143016BFC7A11E52": {
+					"points": 0,
+					"nickName": "#123456Khaled#ffffff#8"
+				},
+				"FC981265714440C6C980E30E43A82352": {
+					"points": 0,
+					"nickName": "#FFFFFFkitkat#000000.8"
+				}
+			},
+			"eventName": "Event Name",
+			"teamName": "octaners",
+			"teamColor": [
+				255,
+				255,
+				255
+			]
+		},
+		"mapTimeLimits": {
+			"teardrop": [
+				{
+					"time": 152500,
+					"points": 3
+				},
+				{
+					"time": 154000,
+					"points": 2
+				},
+				{
+					"time": 158000,
+					"points": 1
+				}
+			],
+			"[DM]DoPeR-SebaS_DS-Xperience": [
+				{
+					"time": 187500,
+					"points": 3
+				},
+				{
+					"time": 188500,
+					"points": 2
+				},
+				{
+					"time": 191000,
+					"points": 1
+				}
+			],
+			"[DM]DLF_krmky_marvel_pchz_dawnoverbayou2": [
+				{
+					"time": 229000,
+					"points": 3
+				},
+				{
+					"time": 230000,
+					"points": 2
+				},
+				{
+					"time": 233000,
+					"points": 1
+				}
+			],
+			"[DM]Artic-ft-Fatal-Red-Rebel": [
+				{
+					"time": 188000,
+					"points": 3
+				},
+				{
+					"time": 190000,
+					"points": 2
+				},
+				{
+					"time": 192000,
+					"points": 1
+				}
+			],
+			"DMGoku-Witherest": [
+				{
+					"time": 196000,
+					"points": 3
+				},
+				{
+					"time": 200000,
+					"points": 2
+				},
+				{
+					"time": 210000,
+					"points": 1
+				}
+			],
+			"DMRoNNiE_ft_DLF_-_Ally_Territory": [
+				{
+					"time": 216000,
+					"points": 3
+				},
+				{
+					"time": 217000,
+					"points": 2
+				},
+				{
+					"time": 220000,
+					"points": 1
+				}
+			],
+			"[DM]iRavenftQwinceftPCHZY-Reincarnation2": [
+				{
+					"time": 241000,
+					"points": 3
+				},
+				{
+					"time": 242500,
+					"points": 2
+				},
+				{
+					"time": 246000,
+					"points": 1
+				}
+			],
+			"[DM]ShuX_ft_FachX_ft_Nebla_ft_Memphis_-_Outback": [
+				{
+					"time": 197500,
+					"points": 3
+				},
+				{
+					"time": 199000,
+					"points": 2
+				},
+				{
+					"time": 202000,
+					"points": 1
+				}
+			],
+			"DM_Goku_ft_stan_-_Demetori": [
+				{
+					"time": 208500,
+					"points": 3
+				},
+				{
+					"time": 211000,
+					"points": 2
+				},
+				{
+					"time": 218000,
+					"points": 1
+				}
+			],
+			"DMRampageftRuSOftGoku-Overedge": [
+				{
+					"time": 194000,
+					"points": 3
+				},
+				{
+					"time": 196000,
+					"points": 2
+				},
+				{
+					"time": 198000,
+					"points": 1
+				}
+			],
+			"[DM]RTR_v3_Kanjo": [
+				{
+					"time": 169000,
+					"points": 3
+				},
+				{
+					"time": 171000,
+					"points": 2
+				},
+				{
+					"time": 176000,
+					"points": 1
+				}
+			],
+			"DMLUZID_ft_Goku_-_Aphotic_Isolation": [
+				{
+					"time": 186500,
+					"points": 3
+				},
+				{
+					"time": 188000,
+					"points": 2
+				},
+				{
+					"time": 193000,
+					"points": 1
+				}
+			],
+			"[DM]Kucky-ft-Tarin-PolakMaly-Azure-Roses": [
+				{
+					"time": 195000,
+					"points": 3
+				},
+				{
+					"time": 195500,
+					"points": 2
+				},
+				{
+					"time": 197000,
+					"points": 1
+				}
+			],
+			"[DM]Flash_ft__Viskuz_-_Jetty_Lounge": [
+				{
+					"time": 190800,
+					"points": 3
+				},
+				{
+					"time": 191800,
+					"points": 2
+				},
+				{
+					"time": 193500,
+					"points": 1
+				}
+			],
+			"[DM]Esp4wNv6-Mismatch": [
+				{
+					"time": 220000,
+					"points": 3
+				},
+				{
+					"time": 222500,
+					"points": 2
+				},
+				{
+					"time": 230000,
+					"points": 1
+				}
+			],
+			"[DM]Arrow-v8-Close-to-Perfection-II": [
+				{
+					"time": 189500,
+					"points": 3
+				},
+				{
+					"time": 190500,
+					"points": 2
+				},
+				{
+					"time": 192000,
+					"points": 1
+				}
+			],
+			"[DM]iRaven_For_The_Love_Of_BriaN-": [
+				{
+					"time": 172800,
+					"points": 3
+				},
+				{
+					"time": 173500,
+					"points": 2
+				},
+				{
+					"time": 175500,
+					"points": 1
+				}
+			],
+			"[DM]Cosa_NostraftSk2SlashDashII": [
+				{
+					"time": 276500,
+					"points": 3
+				},
+				{
+					"time": 278000,
+					"points": 2
+				},
+				{
+					"time": 281000,
+					"points": 1
+				}
+			],
+			"TESTMAP": [
+				{
+					"time": 1000,
+					"points": 3
+				},
+				{
+					"time": 10000,
+					"points": 2
+				}
+			],
+			"DMCelestial_Reach": [
+				{
+					"time": 260000,
+					"points": 3
+				},
+				{
+					"time": 263000,
+					"points": 2
+				},
+				{
+					"time": 270000,
+					"points": 1
+				}
+			],
+			"[DM]rozen3": [
+				{
+					"time": 142500,
+					"points": 3
+				},
+				{
+					"time": 144000,
+					"points": 2
+				},
+				{
+					"time": 146000,
+					"points": 1
+				}
+			],
+			"[DM]BriaN_-_Conundrum": [
+				{
+					"time": 129500,
+					"points": 3
+				},
+				{
+					"time": 130500,
+					"points": 2
+				},
+				{
+					"time": 133000,
+					"points": 1
+				}
+			],
+			"[DM]Tarin-Skaarj-Miketz_Outer-Reaches[FIX]": [
+				{
+					"time": 184000,
+					"points": 3
+				},
+				{
+					"time": 185000,
+					"points": 2
+				},
+				{
+					"time": 187000,
+					"points": 1
+				}
+			],
+			"[DM]DC_-v11-_Maximal_Crazy": [
+				{
+					"time": 212500,
+					"points": 3
+				},
+				{
+					"time": 214500,
+					"points": 2
+				},
+				{
+					"time": 218000,
+					"points": 1
+				}
+			],
+			"[DM]DLFftKrmKy-OblivionRoad2": [
+				{
+					"time": 207500,
+					"points": 3
+				},
+				{
+					"time": 209000,
+					"points": 2
+				},
+				{
+					"time": 211000,
+					"points": 1
+				}
+			],
+			"DMSquadron_v1_-_Fairy_Speed": [
+				{
+					"time": 167500,
+					"points": 3
+				},
+				{
+					"time": 168500,
+					"points": 2
+				},
+				{
+					"time": 172000,
+					"points": 1
+				}
+			],
+			"DM_Nataam_ft_Esp4wN_ft_PCHZY_-_Urban_Decay": [
+				{
+					"time": 195000,
+					"points": 3
+				},
+				{
+					"time": 196000,
+					"points": 2
+				},
+				{
+					"time": 197000,
+					"points": 1
+				}
+			],
+			"[DM]CascaDe-Speed-Pressure": [
+				{
+					"time": 169000,
+					"points": 3
+				},
+				{
+					"time": 171000,
+					"points": 2
+				},
+				{
+					"time": 175000,
+					"points": 1
+				}
+			],
+			"[DM]TulioTC-Exodo_Magnetic-Love-III[FIX]": [
+				{
+					"time": 242000,
+					"points": 3
+				},
+				{
+					"time": 243500,
+					"points": 2
+				},
+				{
+					"time": 246000,
+					"points": 1
+				}
+			],
+			"[DM]DLF_-_Oblivion_Road": [
+				{
+					"time": 176500,
+					"points": 3
+				},
+				{
+					"time": 178000,
+					"points": 2
+				},
+				{
+					"time": 182000,
+					"points": 1
+				}
+			],
+			"DMFujiwara-SuperTofuDelivery3": [
+				{
+					"time": 142500,
+					"points": 3
+				},
+				{
+					"time": 144000,
+					"points": 2
+				},
+				{
+					"time": 147000,
+					"points": 1
+				}
+			],
+			"DM-DLFfeatSajgoN-ShineInTime": [
+				{
+					"time": 224500,
+					"points": 3
+				},
+				{
+					"time": 226000,
+					"points": 2
+				},
+				{
+					"time": 230000,
+					"points": 1
+				}
+			],
+			"[DM]Nice_ft_Mariana_-_Jandy": [
+				{
+					"time": 223500,
+					"points": 3
+				},
+				{
+					"time": 225000,
+					"points": 2
+				},
+				{
+					"time": 228000,
+					"points": 1
+				}
+			],
+			"[DM]Dimka73_-v9-_Time_Infernis_III": [
+				{
+					"time": 168000,
+					"points": 3
+				},
+				{
+					"time": 168500,
+					"points": 2
+				},
+				{
+					"time": 170000,
+					"points": 1
+				}
+			],
+			"[DM]Deadline_ft_[B]oost_ft_Sapphire_ft_Cosa_Nostra-Unity_II": [
+				{
+					"time": 205000,
+					"points": 3
+				},
+				{
+					"time": 205800,
+					"points": 2
+				},
+				{
+					"time": 208000,
+					"points": 1
+				}
+			],
+			"[DM]GteateroftFacuuzz-Torenism": [
+				{
+					"time": 188500,
+					"points": 3
+				},
+				{
+					"time": 190000,
+					"points": 2
+				},
+				{
+					"time": 195000,
+					"points": 1
+				}
+			],
+			"messi_record": [
+				{
+					"time": 148500,
+					"points": 3
+				},
+				{
+					"time": 149500,
+					"points": 2
+				},
+				{
+					"time": 152000,
+					"points": 1
+				}
+			],
+			"DMGteateroDarkInceptionIV": [
+				{
+					"time": 243000,
+					"points": 3
+				},
+				{
+					"time": 244000,
+					"points": 2
+				},
+				{
+					"time": 246000,
+					"points": 1
+				}
+			],
+			"[DM]DC_v15-Fuck_You_All_III": [
+				{
+					"time": 257000,
+					"points": 3
+				},
+				{
+					"time": 263000,
+					"points": 2
+				},
+				{
+					"time": 270000,
+					"points": 1
+				}
+			],
+			"[DM]Gteatero-IFellDown": [
+				{
+					"time": 188000,
+					"points": 3
+				},
+				{
+					"time": 192000,
+					"points": 2
+				},
+				{
+					"time": 195000,
+					"points": 1
+				}
+			],
+			"DMGteatero-OstentatiousOasis": [
+				{
+					"time": 156500,
+					"points": 3
+				},
+				{
+					"time": 158000,
+					"points": 2
+				},
+				{
+					"time": 160000,
+					"points": 1
+				}
+			]
+		}
+	}
+]

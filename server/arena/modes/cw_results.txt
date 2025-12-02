@@ -1,0 +1,37 @@
+Event Name
+
+1.                                                TfF 1, M 0     /TfF/drw. /TfF\LezeN#                                                                                       
+2. [DM] BuDyA's -Vol 9- A Day To Remember         TfF 1, M 1     M#LiGhTnInG M//<b>TRtam CYREXM!                                                                      
+3. [DM] 7cp-LMS-Docki-M26-RC_Hell(DM_edition)     TfF 1, M 2     i[M]aD M//<b>TRtam                                                                                                        
+4. [DM] FakeDeath V7 - Blackout                   TfF 1, M 3     i[M]aD                                                                                                                           
+5. [DM] Sealine - Loops are Great v1.0            TfF 2, M 3     /TfF/drw. tffdk /TfF\SkreePy! /TfF\LezeN#                                              
+6. [DM] Sealine - Loops are Great v1.0            TfF 1, M 4     CYREXM!                                                                                                            
+7. [DM]Darmos Vol.3 - Goodness Gracious           TfF 1, M 5     m'plexy i[M]aD CYREXM!                                                                 
+8. [DM] Goku - Rockport                           TfF 2, M 5     TfFnaxeR /TfF\!DraGuN~                                                                               
+9. [DM] Esp4wN - Synon                            TfF 3, M 5     REWEXTFF RD{TFF                                                                               
+10. [DM] Canallon vol.3 - Noon In The Forest      TfF 4, M 5     TfFnaxeR /TfF\!DraGuN~                                                                               
+11. [DM] DoPeR Ft SebaS - DS Xperience            TfF 4, M 6     M#LiGhTnInG i[M]aD M//<b>TRtam CYREXM!                                                        
+12. [DM] DarkeN ft. SphinX - Haunted II           TfF 5, M 6     /TfF\SkreePy! RD{TFF                                                                                 
+13. [DM] .::Skotinka -Vol 10- Nightmare           TfF 6, M 6     tffzeiken /TfF\!DraGuN~ /TfF/drw. TfFnaxeR                               
+14. [DM] .::Skotinka -Vol 10- Nightmare           TfF 7, M 6     tffzeiken /TfF\!DraGuN~ /TfF\LezeN# /TfF/drw. TfFnaxeR     
+
+TfF 7, M 6
+
+18 M//<b>TRtam (killed: 7, survived: 3, passed: 7)
+18 i[M]aD (killed: 5, survived: 4, passed: 8)
+17 CYREXM! (killed: 6, survived: 4, passed: 7)
+17 /TfF\LezeN# (killed: 8, survived: 3, passed: 6)
+13 /TfF\!DraGuN~ (killed: 4, survived: 4, passed: 5)
+13 TfFnaxeR (killed: 5, survived: 4, passed: 4)
+10 /TfF/drw. (killed: 3, survived: 4, passed: 3)
+8 M#LiGhTnInG (killed: 1, survived: 2, passed: 5)
+6 tffzeiken (killed: 1, survived: 2, passed: 3)
+5 tffdk (killed: 4, survived: 1, passed: 1)
+5 /TfF\SkreePy! (killed: 1, survived: 2, passed: 3)
+4 RD{TFF (killed: 1, survived: 2, passed: 1)
+4 m'plexy (killed: 0, survived: 1, passed: 3)
+3 REWEXTFF (killed: 1, survived: 1, passed: 1)
+3 xdrgztff~ (killed: 0, survived: 0, passed: 3)
+1 :M#Espi (killed: 0, survived: 0, passed: 1)
+
+MVP: M//<b>TRtam with 18 points
