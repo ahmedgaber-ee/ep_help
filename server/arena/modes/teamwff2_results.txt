@@ -1,8 +1,0 @@
-Event Name
-
-
-t1 0:0, t2 0:0, t3 0:0, t4 0:0
-
-
-Banned maps
-[DM] LegioN ft. Esp4wN ft. Mirage - Movements (t1)
