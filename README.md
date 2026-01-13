@@ -1,52 +1,6 @@
-# EP Help System 📚
-> A powerful, feature-rich help panel system for MTA San Andreas servers with advanced formatting, layouts, and beautiful UI.
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![MTA](https://img.shields.io/badge/MTA-San%20Andreas-orange.svg)
-![Status](https://img.shields.io/badge/status-production%20ready-brightgreen.svg)
-## 🌟 Features
-- **🎨 Rich Typography** - Multiple font families, sizes, colors, bold, italic
-- **⌨️ Keyboard Keys** - Beautiful keybind visualization
-- **🖍️ Text Highlights** - Inline text markers for emphasis
-- **📊 Data Tables** - Advanced tables with custom alignment controls
-- **📈 Progress Bars** - Visual statistics and achievement tracking
-- **📐 Grid Layouts** - Responsive multi-column designs
-- **📦 Containers** - Stylish boxes with borders and customization
-- **➖ Separators** - Elegant lines and logo dividers
-- **📝 Lists** - Ordered and unordered with full formatting
-- **🎯 Zero Memory Usage** - All resources destroyed when panel closes
-- **🔒 ACL Integration** - Role-based content visibility
-- **✏️ In-Game Editor** - Admins can edit content without coding
-## 📋 Table of Contents
-- [Installation](#-installation)
-- [Quick Start](#-quick-start)
-- [Usage Guide](#-usage-guide)
-- [Creating Content](#-creating-content)
-- [Syntax Reference](#-syntax-reference)
-- [Examples](#-examples)
-- [Configuration](#-configuration)
-- [Commands](#-commands)
-- [API Documentation](#-api-documentation)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
-## 🚀 Installation
-1. **Download** the `ep_help` resource
-2. **Extract** to your MTA server's `resources` folder
-3. **Add** to your `server.conf` or `mtaserver.conf`:
-   ```xml
-   <resource src="ep_help" startup="1" protected="0"/>
-   ```
-4. **Start** the resource:
-   ```
-   start ep_help
-   ```
-The system will automatically:
-- Create default help content
-- Set up ACL permissions
-- Initialize the help panel
 ## ⚡ Quick Start
 ### For Players
-1. Press **F1** to open the help panel
+1. Press **H** to open the help panel
 2. Navigate categories using the sidebar
 3. Scroll through content
 4. Press **F1** again or **ESC** to close
