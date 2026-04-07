@@ -443,7 +443,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Fonts:** Roboto (Google), Gotham
 - **Icons:** Custom EP icons
 - **Framework:** MTA San Andreas
-- **Developer:** Antigravity (Google Deepmind)
+- **Developer:** SycroX
 ## 📞 Support
 - **Documentation:** [SYNTAX_GUIDE.md](SYNTAX_GUIDE.md)
 - **Issues:** Open an issue on GitHub
@@ -460,6 +460,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Collaborative editing
 ---
 <div align="center">
-**Made with ❤️ for the MTA community**
 [⬆ Back to Top](#ep-help-system-)
 </div>
